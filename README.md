@@ -43,7 +43,7 @@ Comprehensive study of Regressor and Classifier variants for:
   
 # ---
 
-##Turkish Version
+## Turkish Version
 # Veri Ön İşleme ve Makine Öğrenmesi Tam Süreç Hattı
 
 Bu depo; ham veri ön işlemeden özellik mühendisliğine, regresyon ve sınıflandırma tekniklerini kullanan ileri seviye makine öğrenmesi modellemesine kadar uzanan, uçtan uca eksiksiz bir veri bilimi iş akışı sunmaktadır.
@@ -84,10 +84,3 @@ Aşağıdaki modellerin hem **Regressor** (Regresyon) hem de **Classifier** (Sı
 * **Random Forest:** Varyansı azaltmak için Bagging tekniği.
 * **AdaBoost & Gradient Boosting:** Ardışık hata düzeltme yöntemleri.
 * **XGBoost & LightGBM:** Yüksek performanslı ve ölçeklenebilir boosting kütüphaneleri.
-
----
-
-## 🚀 Kurulum ve Kullanım
-1. Depoyu yerel makinenize klonlayın:
-   ```bash
-   git clone [https://github.com/kullaniciadi/Data-Preprocessing-and-ML-Full-Pipeline.git](https://github.com/kullaniciadi/Data-Preprocessing-and-ML-Full-Pipeline.git)
